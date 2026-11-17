@@ -1,36 +1,39 @@
-# 📊 CTG-DATA: Chattogram Sales Division
+<div align="center">
+  <h1>📊 CTG-DATA: Chattogram Sales Division</h1>
+  <p><i>Centralized Workspace & Data Archive for Regional Operations</i></p>
+  
+  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" alt="Status" />
+  <img src="https://img.shields.io/badge/Data_Type-Confidential-red?style=for-the-badge" alt="Confidential" />
+  <img src="https://img.shields.io/badge/Region-Chattogram-blue?style=for-the-badge" alt="Region" />
+</div>
 
-![GitHub repo size](https://img.shields.io/github/repo-size/shohidulrpl/CTG-DATA?style=flat-square&color=blue)
-![GitHub last commit](https://img.shields.io/github/last-commit/shohidulrpl/CTG-DATA?style=flat-square&color=green)
+<br>
 
-Welcome to the **CTG-DATA** repository! This is a centralized workspace and data archive for managing daily sales operations, administrative records, HR policies, and financial documents for the Chattogram Sales Division.
+## 📑 Executive Summary
+> **CTG-DATA** is the primary operational data repository for the Chattogram Sales Division. It serves as a secure, version-controlled hub for managing daily sales metrics, administrative records, human resource policies, and financial documentation.
 
-## 📂 Repository Structure
+## 🗂️ Directory Architecture
 
-This repository contains organized data folders for different operational years and departments:
+| Category | Directories | Description |
+| :--- | :--- | :--- |
+| **📈 Sales Operations** | `RPL-2025`, `RPL-2026`, `RPL Sales Achievement` | Yearly sales tracking, targets, and regional milestone records. |
+| **🏢 HR & Admin** | `HR Policy`, `Resignation-26`, `Child/Lunch Info` | Staff administrative records, corporate policies, and transition data. |
+| **💰 Financials** | `Office Maintenance Bill CTG-SD`, `Payment Info` | Regional maintenance tracking, billing, and vendor payment records. |
+| **📅 Engagements** | `Monthly Meeting-25` | Agendas, minutes, and monthly performance review data. |
 
-*   **📈 Sales & Core Data**
-    *   `RPL-2025` & `RPL-2026`: Yearly sales tracking, target achievements, and operational data.
-    *   `RPL Sales Achievement`: Records of regional sales milestones.
-*   **🏢 Administrative & HR**
-    *   `HR Policy`: Company guidelines and HR policies.
-    *   `Resignation-26`: Employee transition records for 2026.
-    *   `Child Info` & `Lunch Info`: Staff administrative records.
-*   **💰 Finance & Billing**
-    *   `Office Maintenance Bill CTG-SD`: Regional maintenance tracking.
-    *   `Payment Information`: Billing and vendor payment records.
-*   **📅 Meetings & Events**
-    *   `Monthly Meeting-25`: Monthly performance review data.
+## ⚙️ Core Workflow & Stack
+This repository utilizes a modern, automated data management workflow to ensure accuracy and efficiency:
 
-## 🛠️ Tools & Technologies Used
-*   **Data Management:** Microsoft Excel (Index, Match, Power Query), PDF
-*   **Automation:** Git, n8n, Webhooks
-*   **Hosting:** GitHub
+- **Data Processing:** Microsoft Excel (Advanced Functions, Power Query)
+- **Version Control & Hosting:** Git & GitHub
+- **Workflow Automation:** n8n, Webhooks
 
-## 👨‍💻 Maintainer
-**Md. Shohidul Islam**
-*Data Aggregation & Distribution Analytics*
-Chattogram, Bangladesh.
+<br>
 
 ---
-*Note: This is a private/internal operational repository. Please ensure data confidentiality while accessing these files.*
+
+<div align="center">
+  <b>👨‍💻 Maintained by Md. Shohidul Islam</b><br>
+  <i>Data Aggregation & Distribution Analytics | Chattogram, Bangladesh</i><br><br>
+  ⚠️ <i>Note: This is a private/internal operational repository. Strict data confidentiality protocols apply.</i>
+</div>
